@@ -12,3 +12,4 @@ Interface a relay with ESP32 to control high-voltage devices.
 - VCC → 5V  
 - GND → GND  
 - Relay output → (AC bulb/fan circuit, through relay contacts)  
+  
